@@ -59,7 +59,7 @@ _factory_contract_addresses_v2 = {
     "harmony_mainnet": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
     "harmony_testnet": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
     "sepolia": "0x7E0987E5b3a30e3f2828572Bb659A548460a3003",
-    "base": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6",  # Added Base Mainnet factory address
+    "base": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24",  # Added Base Mainnet factory address
     "base_sepolia": "0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24",  # Added Base Testnet (Sepolia) factory address
 }
 
@@ -76,7 +76,7 @@ _router_contract_addresses_v2 = {
     "harmony_testnet": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
     #sepolia tesnet router address
     "sepolia": "0xC532a74256D3Db42D0Bf7a0400fEFDbad7694008",
-    "base": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24",  # Added Base Mainnet router address
+    "base": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6",  # Added Base Mainnet router address
     "base_sepolia": "0x94cC0AaC535CCDB3C01d6787D6413C739ae12bc4",  # Added Base Testnet (Sepolia) router address
 
 }
